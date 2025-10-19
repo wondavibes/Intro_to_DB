@@ -1,2 +1,6 @@
 
-SHOW TABLES FROM @database_name;
+
+USE @database_name;
+
+
+SHOW TABLES;
