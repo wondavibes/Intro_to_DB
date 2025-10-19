@@ -1,6 +1,6 @@
 
 
-USE @database_name;
+USE alx_book_store;
 
 
 SHOW TABLES;
